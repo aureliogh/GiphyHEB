@@ -57,6 +57,14 @@ namespace GiphyUI
                 .Replace("{UsersServices}", userServices);
         } // AppSetting
 
+        internal static string AjaxUrl(string appSettingsKey, bool ssl)
+        {
+            //string url = string.Format("{0}?subscription-key={1}", AppSetting(appSettingsKey), subscriptionKey);
+            string url = AppSetting(appSettingsKey);
+            if (ssl) { url = url.Replace("http:", "https:"); }
+            return url;
+        }
+
         internal static string StripTags(string source)
         {
             source = source.Trim();

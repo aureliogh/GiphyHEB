@@ -87,7 +87,7 @@ C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyAPI\bin\Microsoft.AI.Depen
 C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyAPI\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyAPI\bin\Microsoft.AI.Web.xml
-C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyAPI\obj\Debug\GiphyAPI.csprojResolveAssemblyReference.cache
 C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyAPI\obj\Debug\GiphyAPI.csproj.CoreCompileInputs.cache
 C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyAPI\obj\Debug\GiphyAPI.dll
 C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyAPI\obj\Debug\GiphyAPI.pdb
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyAPI\obj\Debug\GiphyAPI.csprojResolveAssemblyReference.cache

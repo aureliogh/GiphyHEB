@@ -18,7 +18,7 @@ namespace GiphyAPI.Constructor
         private  DTO.User _user = new DTO.User();
         
     
-        private Dictionary<int, DTO.Category> _category = new Dictionary<int, DTO.Category>();
+        
         #endregion
 
         #region Constructors
@@ -171,8 +171,8 @@ namespace GiphyAPI.Constructor
             {
                 if (Exists)
                 {
-                    var request = AppSetting("Category.ByIdUser")
-                        .Replace("{idUser}", _user.id_user.ToString());
+                    var request = AppSetting("EBPP.User.ByID")
+                        .Replace("{userid}", _user.id_user.ToString());
 
                     var result = Get(request, recache);
 
@@ -183,7 +183,7 @@ namespace GiphyAPI.Constructor
                 }
             }
             catch (Exception ex) { ErrorHelper.Handle(ex); }
-        } // RefreshCategories
+        } // RefreshAccounts
 
         /// <summary>
         /// 

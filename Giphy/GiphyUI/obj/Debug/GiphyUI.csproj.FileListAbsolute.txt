@@ -107,3 +107,4 @@ C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\obj\Debug\GiphyUI.cspro
 C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\obj\Debug\GiphyUI.csproj.CoreCompileInputs.cache
 C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\obj\Debug\GiphyUI.dll
 C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\obj\Debug\GiphyUI.pdb
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\GiphyDotNet.dll

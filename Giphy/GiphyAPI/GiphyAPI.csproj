@@ -170,11 +170,9 @@
     <Compile Include="Areas\HelpPage\SampleGeneration\SampleDirection.cs" />
     <Compile Include="Areas\HelpPage\SampleGeneration\TextSample.cs" />
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
-    <Compile Include="Constructor\Category.cs" />
     <Compile Include="Constructor\User.cs" />
-    <Compile Include="Controllers\CategoryController.cs" />
+    <Compile Include="Controllers\GiphyController.cs" />
     <Compile Include="Controllers\UserController.cs" />
-    <Compile Include="DTO\Category.cs" />
     <Compile Include="DTO\DataTransferObject.cs" />
     <Compile Include="DTO\User.cs" />
     <Compile Include="GiphySQL.designer.cs">

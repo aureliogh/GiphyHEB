@@ -33,17 +33,17 @@ namespace GiphyAPI.Helpers
         {
             _httpClient = httpClient;
             userServices = _config.GetValue("UsersServices", typeof(string)).ToString();
-            searchGiphy = _config.GetValue("SearchGiphy", typeof(string)).ToString();
-            getGiphyById = _config.GetValue("GetGiphyById", typeof(string)).ToString();
+            //searchGiphy = _config.GetValue("SearchGiphy", typeof(string)).ToString();
+            //getGiphyById = _config.GetValue("GetGiphyById", typeof(string)).ToString();
         }
 
         //Gets initial values from web.config keys
         internal string AppSetting(string appSetting)
         {
             return _config.GetValue(appSetting, typeof(string)).ToString()
-                .Replace("{UsersServices}", userServices)
-                .Replace("{SearchGiphy}", searchGiphy)
-                .Replace("{GetGiphyById}", getGiphyById);
+                .Replace("{UsersServices}", userServices);
+                //.Replace("{SearchGiphy}", searchGiphy)
+                //.Replace("{GetGiphyById}", getGiphyById);
         }
 
         //internal httpresponse message for get method calls

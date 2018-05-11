@@ -51,6 +51,9 @@
     <Reference Include="AspNet.ScriptManager.jQuery, Version=3.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\AspNet.ScriptManager.jQuery.3.0.0\lib\net45\AspNet.ScriptManager.jQuery.dll</HintPath>
     </Reference>
+    <Reference Include="GiphyDotNet, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\GiphyDotNet.1.0.0.0\lib\GiphyDotNet.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\packages\Newtonsoft.Json.11.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
@@ -657,7 +660,6 @@
     <Content Include="pages\panels-wells.html" />
     <Content Include="pages\tables.html" />
     <Content Include="pages\typography.html" />
-    <Content Include="Portal\Categories.aspx" />
     <Content Include="Portal\dashboard.aspx" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
@@ -1145,7 +1147,9 @@
     <Content Include="vendor\raphael\raphael.js" />
     <Content Include="vendor\raphael\raphael.min.js" />
     <Content Include="ViewSwitcher.ascx" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Bundle.config" />
     <Content Include="Site.Mobile.Master" />
     <Content Include="Scripts\umd\popper.min.js.map" />
@@ -1230,13 +1234,6 @@
     </Compile>
     <Compile Include="NewUser.aspx.designer.cs">
       <DependentUpon>NewUser.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Portal\Categories.aspx.cs">
-      <DependentUpon>Categories.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Portal\Categories.aspx.designer.cs">
-      <DependentUpon>Categories.aspx</DependentUpon>
     </Compile>
     <Compile Include="Portal\dashboard.aspx.cs">
       <DependentUpon>dashboard.aspx</DependentUpon>
