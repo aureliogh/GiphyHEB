@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Giphy" Class="GiphySQLDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=184.168.194.62;Initial Catalog=Giphy;User ID=giphyadmin" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="GiphyConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="giphyadmin.tbl_users" Member="tbl_users">
+    <Type Name="tbl_user">
+      <Column Name="id_user" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="username" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="password" Type="System.String" DbType="VarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="firstname" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="lastname" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="email" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="adddttm" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="lastlogin" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Association Name="tbl_user_tbl_categoriesByUser" Member="tbl_categoriesByUsers" ThisKey="id_user" OtherKey="id_user" Type="tbl_categoriesByUser" />
+    </Type>
+  </Table>
+  <Table Name="giphyadmin.tbl_categoriesByUser" Member="tbl_categoriesByUsers">
+    <Type Name="tbl_categoriesByUser">
+      <Column Name="id_category" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="categoryName" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="categoryDescription" Type="System.String" DbType="VarChar(500) NOT NULL" CanBeNull="false" />
+      <Column Name="sorting" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="id_user" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="adddttm" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Association Name="tbl_categoriesByUser_tbl_usersGiphy" Member="tbl_usersGiphies" ThisKey="id_user,id_category" OtherKey="id_user,id_category" Type="tbl_usersGiphy" />
+      <Association Name="tbl_user_tbl_categoriesByUser" Member="tbl_user" ThisKey="id_user" OtherKey="id_user" Type="tbl_user" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="giphyadmin.tbl_usersGiphy" Member="tbl_usersGiphies">
+    <Type Name="tbl_usersGiphy">
+      <Column Name="id_giphyUser" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="id_user" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="id_category" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="id_giphy" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="url" Type="System.String" DbType="VarChar(300) NOT NULL" CanBeNull="false" />
+      <Column Name="addtttm" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Association Name="tbl_categoriesByUser_tbl_usersGiphy" Member="tbl_categoriesByUser" ThisKey="id_user,id_category" OtherKey="id_user,id_category" Type="tbl_categoriesByUser" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="GiphySQL">
+  <DataContextMoniker Name="/GiphySQLDataContext" />
+  <nestedChildShapes>
+    <classShape Id="8d5db81b-5beb-4eb2-bc05-f7bd01e433a6" absoluteBounds="1.125, 1.25, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/GiphySQLDataContext/tbl_user" />
+      <nestedChildShapes>
+        <elementListCompartment Id="edbc0385-e660-4511-9fc1-604701dc77c4" absoluteBounds="1.1399999999999997, 1.71, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="81a1ffa9-8878-44c8-9bc0-2f4060e0e24a" absoluteBounds="5.125, 1.25, 2, 1.9631982421875">
+      <DataClassMoniker Name="/GiphySQLDataContext/tbl_categoriesByUser" />
+      <nestedChildShapes>
+        <elementListCompartment Id="81412584-a302-434f-a1ad-d2fea80b5a5c" absoluteBounds="5.14, 1.71, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="29569ab7-fa3c-413f-8b2d-eec22feddd13" absoluteBounds="4.5, 5.75, 2, 1.9631982421875">
+      <DataClassMoniker Name="/GiphySQLDataContext/tbl_usersGiphy" />
+      <nestedChildShapes>
+        <elementListCompartment Id="579a0278-be45-4387-9ecf-ffadfc8bf764" absoluteBounds="4.515, 6.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3.125 : 2.23159912109375); (5.125 : 2.23159912109375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/GiphySQLDataContext/tbl_user/tbl_user_tbl_categoriesByUser" />
+      <nodes>
+        <classShapeMoniker Id="8d5db81b-5beb-4eb2-bc05-f7bd01e433a6" />
+        <classShapeMoniker Id="81a1ffa9-8878-44c8-9bc0-2f4060e0e24a" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.8125 : 3.2131982421875); (5.8125 : 5.75)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/GiphySQLDataContext/tbl_categoriesByUser/tbl_categoriesByUser_tbl_usersGiphy" />
+      <nodes>
+        <classShapeMoniker Id="81a1ffa9-8878-44c8-9bc0-2f4060e0e24a" />
+        <classShapeMoniker Id="29569ab7-fa3c-413f-8b2d-eec22feddd13" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

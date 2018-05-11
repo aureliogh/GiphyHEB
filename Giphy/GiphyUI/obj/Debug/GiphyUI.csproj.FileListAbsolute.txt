@@ -1,0 +1,109 @@
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\ApplicationInsights.config
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\GiphyUI.dll.config
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\GiphyUI.dll
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\GiphyUI.pdb
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\Antlr3.Runtime.dll
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\Microsoft.AI.Web.dll
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\Microsoft.AI.WindowsServer.dll
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\Microsoft.ApplicationInsights.dll
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\Microsoft.Web.Infrastructure.dll
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\Newtonsoft.Json.dll
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\System.Web.Optimization.dll
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\WebGrease.dll
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\System.Web.Optimization.xml
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\Antlr3.Runtime.pdb
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\Newtonsoft.Json.xml
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\Microsoft.ApplicationInsights.xml
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\Microsoft.AI.WindowsServer.xml
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\Microsoft.AI.Web.xml
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\obj\Debug\GiphyUI.csprojResolveAssemblyReference.cache
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\obj\Debug\GiphyUI.csproj.CoreCompileInputs.cache
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\obj\Debug\GiphyUI.csproj.CopyComplete
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\obj\Debug\GiphyUI.dll
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\obj\Debug\GiphyUI.pdb
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\GiphyAPI.dll
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\System.Web.Http.dll
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\System.Web.Mvc.dll
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\System.Net.Http.Formatting.dll
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\System.Web.Http.WebHost.dll
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\System.Web.Razor.dll
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\System.Web.WebPages.Razor.dll
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\System.Web.WebPages.dll
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\System.Web.WebPages.Deployment.dll
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\GiphyAPI.pdb
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\GiphyAPI.dll.config
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\System.Web.Http.xml
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\System.Web.Mvc.xml
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\System.Net.Http.Formatting.xml
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\System.Web.Http.WebHost.xml
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\System.Web.Razor.xml
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\System.Web.WebPages.Razor.xml
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\System.Web.WebPages.xml
+c:\users\auhernandez\source\repos\Giphy\GiphyUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\ApplicationInsights.config
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\GiphyUI.dll.config
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\GiphyUI.dll
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\GiphyUI.pdb
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\Antlr3.Runtime.dll
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\GiphyAPI.dll
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\Microsoft.AI.Web.dll
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\Newtonsoft.Json.dll
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\System.Net.Http.Formatting.dll
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\System.Web.Optimization.dll
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\WebGrease.dll
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\System.Web.Http.dll
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\System.Web.Mvc.dll
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\System.Web.Http.WebHost.dll
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\System.Web.Razor.dll
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\System.Web.WebPages.dll
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\GiphyAPI.pdb
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\GiphyAPI.dll.config
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\Newtonsoft.Json.xml
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\System.Net.Http.Formatting.xml
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\System.Web.Optimization.xml
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\Antlr3.Runtime.pdb
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\Microsoft.AI.Web.xml
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\System.Web.Http.xml
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\System.Web.Mvc.xml
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\System.Web.Http.WebHost.xml
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\System.Web.Razor.xml
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\System.Web.WebPages.xml
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\obj\Debug\GiphyUI.csprojResolveAssemblyReference.cache
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\obj\Debug\GiphyUI.csproj.CoreCompileInputs.cache
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\obj\Debug\GiphyUI.dll
+C:\Users\aurel\Documents\SA Techs\Projects\Giphy\GiphyUI\obj\Debug\GiphyUI.pdb
